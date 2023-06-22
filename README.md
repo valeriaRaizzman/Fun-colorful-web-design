@@ -26,6 +26,4 @@ You can customize the button styles and define the desired actions to be perform
 
 <br>
 
-<i>Background image (cpu) created with Midjourney AI</i>
-
 ![Colourful Web Design](Web-Design.png)
