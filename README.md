@@ -14,7 +14,7 @@ You can customize the button styles and define the desired actions to be perform
 
 2. Define the About component function.
 
-3, Inside the About component, return the JSX code that represents the About section.
+3. Inside the About component, return the JSX code that represents the About section.
 
 4. The section is divided into two main divisions using flexbox. The first division (72% width) displays a background image and a heading using dynamic inline styles.
 
@@ -25,5 +25,7 @@ You can customize the button styles and define the desired actions to be perform
 7. Export the About component as the default export.
 
 <br>
+
+<i>Background image (cpu) created with Midjourney AI</i>
 
 ![Colourful Web Design](Web-Design.png)
