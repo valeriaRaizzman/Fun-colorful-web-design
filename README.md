@@ -1,7 +1,13 @@
 # Fun colorful web - React 💛
 
-                                                        INTRODUCTION
-                                                        
+                                                       
+# Important!
+
+The first part of the code refers to a React implementation that is part of a larger project. The associated CSS layout is located in the "Fun-colorful-web-design-pt2" file.
+<I>Separating the styles into a separate file promotes better code organization and maintainability.</i>
+
+                                                         INTRODUCTION
+
 This code represents a framework that leverages HTML and CSS to create a web application. It uses React, a JavaScript library for building user interfaces, to provide a dynamic and interactive experience. The framework allows you to easily create a visually appealing and interactive About section for your web application.
 
 The About section includes a set of buttons that are interactive and exhibit an effect when the mouse is hovered over them.
