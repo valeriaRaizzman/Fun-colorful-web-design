@@ -1,4 +1,4 @@
-# Fun-colorful-web 💛
+# Fun colorful web - React 💛
 
                                                         INTRODUCTION
                                                         
