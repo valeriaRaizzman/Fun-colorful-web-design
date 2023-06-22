@@ -2,7 +2,11 @@
 
                                                         INTRODUCTION
                                                         
-This code represents a framework that leverages HTML and CSS to create a web application. It uses React, a JavaScript library for building user interfaces, to provide a dynamic and interactive experience. The framework allows you to easily create a visually appealing About section for your web application.
+This code represents a framework that leverages HTML and CSS to create a web application. It uses React, a JavaScript library for building user interfaces, to provide a dynamic and interactive experience. The framework allows you to easily create a visually appealing and interactive About section for your web application.
+
+The About section includes a set of buttons that are interactive and exhibit an effect when the mouse is hovered over them.
+You can customize the button styles and define the desired actions to be performed when the buttons are interacted with.
+
 
                                                             USAGE
                                                             
