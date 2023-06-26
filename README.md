@@ -1,5 +1,6 @@
 # Fun colorful web - React 💛
 
+![Colourful Web Design](Web-Design.png)
                                                        
 # Important!
 
@@ -30,6 +31,4 @@ You can customize the button styles and define the desired actions to be perform
 
 7. Export the About component as the default export.
 
-<br>
 
-![Colourful Web Design](Web-Design.png)
