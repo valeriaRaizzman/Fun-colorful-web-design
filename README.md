@@ -2,11 +2,21 @@
 
 ![Colourful Web Design](Web-Design.png)
 
+<br>
+
+                                                      Buttons have effects!
+
+<br>
 
 <p align="center">
   <img src="https://github.com/valeriaRaizzman/Fun-colorful-web-design/assets/132442225/4ebef49b-9237-4a8e-bee3-faaf7ba3dc65" alt="GIF centrado en el README">
 </p>
 
+<br>
+
+                                                        Editing example
+
+![Example](https://github.com/valeriaRaizzman/Fun-colorful-web-design/assets/132442225/6e8621f8-22cd-4fd2-b48f-db5fbc91c51a)
                                           
 # Important!
 
@@ -37,8 +47,6 @@ You can customize the button styles and define the desired actions to be perform
 
 7. Export the About component as the default export.
 
-<br>
 
-                                                        Editing example
 
-![Example](https://github.com/valeriaRaizzman/Fun-colorful-web-design/assets/132442225/6e8621f8-22cd-4fd2-b48f-db5fbc91c51a)
+
