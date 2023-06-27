@@ -4,7 +4,7 @@
 
 <br>
 
-                                                Buttons have effects!
+                                                    Buttons have effects!
 
 <br>
 
@@ -14,16 +14,17 @@
 
 <br>
 
-                                                   Editing example
+                                                       Editing example
+![example](https://github.com/valeriaRaizzman/Fun-colorful-web-design/assets/132442225/57e4b10a-c31b-4573-b2f6-a3c23d8c84be)
 
-![Example](https://github.com/valeriaRaizzman/Fun-colorful-web-design/assets/132442225/6e8621f8-22cd-4fd2-b48f-db5fbc91c51a)
+
                                           
 # Important!
 
 The first part of the code refers to a React implementation that is part of a larger project. The associated CSS layout is located in the "Fun-colorful-web-design-pt2" file.
 <I>Separating the styles into a separate file promotes better code organization and maintainability.</i>
 
-                                                    INTRODUCTION
+                                                        INTRODUCTION
 
 This code represents a framework that leverages HTML and CSS to create a web application. It uses React, a JavaScript library for building user interfaces, to provide a dynamic and interactive experience. The framework allows you to easily create a visually appealing and interactive About section for your web application.
 
