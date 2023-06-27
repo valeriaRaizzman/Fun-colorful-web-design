@@ -1,6 +1,11 @@
 # Fun colorful web - React 💛
 
 ![Colourful Web Design](Web-Design.png)
+
+                                                        Editing example
+
+![Example](https://github.com/valeriaRaizzman/Fun-colorful-web-design/assets/132442225/6e8621f8-22cd-4fd2-b48f-db5fbc91c51a)
+
                                                        
 # Important!
 
@@ -17,7 +22,7 @@ You can customize the button styles and define the desired actions to be perform
 
                                                             USAGE
                                                             
-1. Import the necessary dependencies. In this case, React and the image file (cpu_image.png) are imported.
+1. Import the necessary dependencies. In this case, React and the image file (Cpu_Background.png) are imported.
 
 2. Define the About component function.
 
