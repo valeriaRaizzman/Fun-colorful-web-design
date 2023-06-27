@@ -3,8 +3,13 @@
 ![Colourful Web Design](Web-Design.png)
 
 <br>
+                                      
 
-                                                    Buttons have effects!
+                                                       Editing example
+![example](https://github.com/valeriaRaizzman/Fun-colorful-web-design/assets/132442225/57e4b10a-c31b-4573-b2f6-a3c23d8c84be)
+
+
+                                                     Buttons have effects!
 
 <br>
 
@@ -13,10 +18,6 @@
 </p>
 
 <br>
-
-                                                       Editing example
-![example](https://github.com/valeriaRaizzman/Fun-colorful-web-design/assets/132442225/57e4b10a-c31b-4573-b2f6-a3c23d8c84be)
-
 
                                           
 # Important!
