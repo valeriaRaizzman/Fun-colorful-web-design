@@ -2,11 +2,12 @@
 
 ![Colourful Web Design](Web-Design.png)
 
-                                                        Editing example
 
-![Example](https://github.com/valeriaRaizzman/Fun-colorful-web-design/assets/132442225/6e8621f8-22cd-4fd2-b48f-db5fbc91c51a)
+<p align="center">
+  <img src="https://github.com/valeriaRaizzman/Fun-colorful-web-design/assets/132442225/4ebef49b-9237-4a8e-bee3-faaf7ba3dc65" alt="GIF centrado en el README">
+</p>
 
-                                                       
+                                          
 # Important!
 
 The first part of the code refers to a React implementation that is part of a larger project. The associated CSS layout is located in the "Fun-colorful-web-design-pt2" file.
@@ -36,4 +37,8 @@ You can customize the button styles and define the desired actions to be perform
 
 7. Export the About component as the default export.
 
+<br>
 
+                                                        Editing example
+
+![Example](https://github.com/valeriaRaizzman/Fun-colorful-web-design/assets/132442225/6e8621f8-22cd-4fd2-b48f-db5fbc91c51a)
